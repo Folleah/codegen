@@ -1,0 +1,20 @@
+{
+    "name": "folleah/codegen",
+    "description": "Library for simple generation verification code",
+    "type": "library",
+    "authors": [
+        {
+            "name": "folleah",
+            "email": "folleah5@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Folleah\\Codegen\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5",
+        "paragonie/random_compat": "<9.99"
+    }
+}
