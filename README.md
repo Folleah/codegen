@@ -1,6 +1,14 @@
 ####Use this library for simple generation verification codes.
 
-**Example:**
+**Installation:**
+
+Add to `composer.json`:
+```
+"folleah/codegen": "^1.0"
+```
+and run `composer update`
+
+**Using:**
 ```$php
 /**
  * first param is code length, second param is easy mode flag
