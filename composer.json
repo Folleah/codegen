@@ -15,6 +15,6 @@
     },
     "require": {
         "php": ">=5",
-        "paragonie/random_compat": "<9.99"
+        "paragonie/random_compat": "~1.1"
     }
 }
